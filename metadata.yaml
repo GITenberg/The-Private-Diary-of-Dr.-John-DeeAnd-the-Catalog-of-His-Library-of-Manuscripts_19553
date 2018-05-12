@@ -1,0 +1,42 @@
+_repo: The-Private-Diary-of-Dr.-John-DeeAnd-the-Catalog-of-His-Library-of-Manuscripts_19553
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dee, John
+    birthdate: 1527
+    deathdate: 1608
+    gutenberg_agent_id: '8745'
+    url: http://www.gutenberg.org/2009/agents/8745
+    wikipedia: http://en.wikipedia.org/wiki/John_Dee
+  editor:
+    agent_name: Halliwell-Phillipps, J. O. (James Orchard)
+    aliases:
+    - Halliwell, James Orchard
+    - Halliwell, J. O. (James Orchard)
+    - Halliwell-Phillipps, James Orchard
+    birthdate: 1820
+    deathdate: 1889
+    gutenberg_agent_id: '8746'
+    url: http://www.gutenberg.org/2009/agents/8746
+    wikipedia: http://en.wikipedia.org/wiki/James_Orchard_Halliwell-Phillipps
+description: ''
+gutenberg_issued: '2006-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19553'
+  lccn: a 17001201
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manuscripts, English -- England -- Cambridge -- Catalogs'
+- !lcc 'DA'
+- !lcsh 'Manuscripts, English -- England -- Oxford -- Catalogs'
+- !lcsh 'Dee, John, 1527-1608'
+- !lcsh 'Dee, John, 1527-1608 -- Diaries'
+title: The Private Diary of Dr. John Dee, and the Catalog of His Library of Manuscripts
+url: http://www.gutenberg.org/ebooks/19553
